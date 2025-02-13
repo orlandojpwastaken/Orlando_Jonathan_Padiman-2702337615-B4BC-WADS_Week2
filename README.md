@@ -54,3 +54,8 @@
     - Used in:
         - Entertainment platforms
         - Ecommerce
+
+## Images
+
+![Image of Architectures](architectures1.jpeg)
+![Image of Architectures with example](architectures2.jpg)
