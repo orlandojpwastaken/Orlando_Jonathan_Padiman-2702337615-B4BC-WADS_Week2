@@ -3,7 +3,7 @@
 - Student ID: 2702337615
 - Class: L4BC
 
-## Article
+## Architecture
 - Monolith
     - All code in one big code base/system.
     - An application where all code is in one single component/file/repository
@@ -54,3 +54,8 @@
     - Used in:
         - Entertainment platforms
         - Ecommerce
+
+## Images
+
+![Image of Architectures](architectures1.jpeg)
+![Image of Architectures with example](architectures2.jpg)
