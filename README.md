@@ -59,3 +59,8 @@
 
 ![Image of Architectures](architectures1.jpeg)
 ![Image of Architectures with example](architectures2.jpg)
+
+## Fun fact:
+- This repository took me 20 retries to get right
+- It involved a lot of bad practice like "reset" and branch deletion
+- There was also a setting that could've made me finish this earlier which was `git config --global merge.ff false`
